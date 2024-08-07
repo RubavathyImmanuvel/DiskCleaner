@@ -12,7 +12,7 @@ Disk Cleaner is a utility tool built using C# and .NET Framework in a WPF applic
 
 ## Project Setup
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/DiskCleaner.git
+   git clone https://github.com/RubavathyImmanuvel/DiskCleaner.git
 2. **Open the Project**:
    Open Visual Studio.<br>
    Navigate to the cloned repository folder and open the DiskCleaner.sln solution file.
